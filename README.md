@@ -1,5 +1,5 @@
 ### Hi there 👋
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118926177?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118926177?v=4&h=300&w=300&mask=circle&maxage=7d)
 
 <!--
 **MihirGit1/MihirGit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
