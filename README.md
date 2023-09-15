@@ -2,7 +2,7 @@
 
 I'm Mihir! I'm an app developer, mainly focused on developing apps for Windows and Android.
 
-You can find my portfolio at [https://github.com/MihirGrand/Portfolio/blob/main/Portfolio.pdf](https://github.com/MihirGrand/MihirGrand/blob/main/Portfolio.pdf). All rights of the works shown inside the file are reserved with me and none of them can / should be used without my written approval.
+You can find my portfolio [here](https://github.com/MihirGrand/MihirGrand/blob/main/Portfolio.pdf). All rights of the works shown inside the file are reserved with me and none of them can / should be used without my written approval.
 
 <!--
 **MihirGit1/MihirGit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
