@@ -4,6 +4,10 @@ I'm Mihir! I'm an app developer, mainly focused on developing apps for Windows a
 
 You can find my portfolio [here](https://github.com/MihirGrand/MihirGrand/blob/main/Portfolio.pdf). All rights of the works shown inside the file are reserved with me and none of them can / should be used without my written approval.
 
+
+<!--[![My Skills](https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png)](https://skillicons.dev)-->
+  <img align="left" alt="Java" width="30px" src="https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png" />
+
 <!--
 **MihirGit1/MihirGit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
