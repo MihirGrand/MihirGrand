@@ -8,9 +8,3 @@
   <img class="ico" align="left" alt="Loc" width="20px" src="https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png" />
   <p>Mumbai, India</p>
 </div>
-
-<style>
-  .ico:hover {
-    cursor: pointer;
-  }
-</style>
