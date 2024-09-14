@@ -52,7 +52,7 @@
 </br>
 
 <h4 align="center">─   MY SOCIALS   ─</h1>
-
+</br>
 <p align="center">
   <a href="https://medium.com/@mihirgrand"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=12100E"/></a>
   <a href="https://www.deviantart.com/zopenzop"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
