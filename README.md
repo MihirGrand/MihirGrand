@@ -41,13 +41,13 @@
 
 </br>
 
-<h3 align="center">I enjoy</h3>
-<ul align="center" style="list-style-type:none;">
-  <li>✨ Photography 📸</li>
-  <li>✨ Ricing 🌾</li>
-  <li>✨ Writing ✒️</li>
-  <li>✨ Graphic design 🖼️</li>
-</ul>
+<p align="center">
+  <h3 align="center">I enjoy</h3>
+  <p align="center">✨ Photography 📸</p>
+  <p align="center">✨ Ricing 🌾(Come visit my <a href="https://www.deviantart.com/zopenzop">rice fields</a>)</p>
+  <p align="center">✨ Writing ✒️</p>
+  <p align="center">✨ Graphic design 🖼️</p>
+</p>
 
 </br>
 
@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://medium.com/@mihirgrand"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=12100E"/></a>
-  <a href="https://www.reddit.com/user/Zopenzop/"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
+  <a href="https://www.deviantart.com/zopenzop"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
   <a href="https://discordapp.com/users/1084344450953785356"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/Zopenzop/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
