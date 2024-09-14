@@ -4,7 +4,9 @@
 
 
 <!--[![My Skills](https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png)](https://skillicons.dev)-->
-<div style="display: grid;align-items:center;">
+<!--<div style="display: grid;align-items:center;">
   <img class="ico" align="left" alt="Loc" width="20px" src="https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png" />
   <p>Mumbai, India</p>
-</div>
+</div>-->
+
+![alt text](https://github.com/MihirGrand/MihirGrand/blob/main/icons/Mihir_Readme_Git.png)
