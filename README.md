@@ -9,7 +9,7 @@
   <p>Mumbai, India</p>
 </div>-->
 
-<picture>![header](https://github.com/MihirGrand/MihirGrand/blob/main/icons/Mihir_Readme.png)</picture>
+<picture>![header](https://github.com/MihirGrand/MihirGrand/blob/main/icons/Mihir_Header.png)</picture>
 
 <p align="center">
   <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&width=700&lines=I+write+code+that+confuses+humans+%26+compilers+alike+%F0%9F%98%82" alt="Typing SVG" /></picture>
