@@ -1,18 +1,7 @@
-<!--### Hi there 👋
-| I'm Mihir! I'm an app developer, mainly focused on developing apps for Windows and Android. You can find my portfolio [here](https://github.com/MihirGrand/MihirGrand/blob/main/Portfolio.pdf).   |  ![](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif) |
-|-|-|-->
-
-
-<!--[![My Skills](https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png)](https://skillicons.dev)-->
-<!--<div style="display: grid;align-items:center;">
-  <img class="ico" align="left" alt="Loc" width="20px" src="https://github.com/MihirGrand/MihirGrand/blob/main/icons/loc.png" />
-  <p>Mumbai, India</p>
-</div>-->
-
 <picture>![header](https://github.com/MihirGrand/MihirGrand/blob/main/icons/Mihir_Header.png)</picture>
 
 <p align="center">
-  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&width=700&lines=I+write+code+that+confuses+humans+%26+compilers+alike+%F0%9F%98%82" alt="Typing SVG" /></picture>
+  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=700&lines=I+write+code+that+confuses+humans+%26+compilers+alike+%F0%9F%98%82" alt="Typing SVG" /></picture>
 </p>
 
 <h4 align="center">─   TECH STACK   ─</h1>
