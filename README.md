@@ -15,7 +15,7 @@
   <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&width=700&lines=I+write+code+that+confuses+humans+%26+compilers+alike+%F0%9F%98%82" alt="Typing SVG" /></picture>
 </p>
 
-<h4 align="center">──────────────   TECH STACK   ──────────────</h1>
+<h4 align="center">─   TECH STACK   ─</h1>
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 </br>
 
-<h4 align="center">──────────────   ABOUT ME   ──────────────</h1>
+<h4 align="center">─   ABOUT ME   ─</h1>
 
 </br>
 
@@ -51,7 +51,7 @@
 
 </br>
 
-<h4 align="center">──────────────   MY SOCIALS   ──────────────</h1>
+<h4 align="center">─   MY SOCIALS   ─</h1>
 
 <p align="center">
   <a href="https://medium.com/@mihirgrand"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=12100E"/></a>
