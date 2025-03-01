@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- <picture><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter"/></picture>
+ <picture><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=for-the-badge"/></picture> <picture><img src="https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter"/></picture>
 </p>
 
 </br>
